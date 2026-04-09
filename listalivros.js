@@ -1,18 +1,18 @@
 const precosLivros = [
     {
-        titulo: "Atos", 
+        titulo: "Genesis", 
         preco: 35
     },
     {
-        titulo: "Corinthians",
+        titulo: "Romanos",
         preco: 45
     },
     {
-        titulo: "Genesis",
+        titulo: "Apocalipsi",
         preco: 50
     },
     {
-        titulo: "Reis",
+        titulo: "Ester",
         preco: 20
     },
     {
@@ -20,7 +20,7 @@ const precosLivros = [
         preco: 65
     },
     {
-        titulo: "O Hobbit",
+        titulo: "Timotio",
         preco: 10
     }
 ];
